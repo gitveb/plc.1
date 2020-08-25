@@ -96,7 +96,6 @@ jQuery("document").ready(function ($) {
 });
 
 
-
 var menuBtn = document.querySelector('.menu-btn');
 var menu = document.querySelector('.header-nav');
 menuBtn.addEventListener('click', function () {
